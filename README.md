@@ -1,7 +1,6 @@
 ### Abed-Elrahman Tuffaha
 
-<!--
-**Xoltharius/Xoltharius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Nuclear Engineer / Software Developer
 
 Here are some ideas to get you started:
 
