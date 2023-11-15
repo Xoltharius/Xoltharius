@@ -1,8 +1,10 @@
 ### Abed-Elrahman Tuffaha
 
+<hr style="border: none; height: 1px; background-color: #333;">
+
 **`Nuclear Engineer / Software Developer`**
 
-___
+
 
   <p align="left"> 
     <a href="https://github.com/Xoltharius?tab=followers"> <img alt="followers" title="Follow me on Github" src=https://custom-icon-badges.demolab.com/github/followers/Xoltharius?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
