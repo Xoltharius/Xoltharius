@@ -1,6 +1,6 @@
 ### Abed-Elrahman Tuffaha
 
-
+<span style="display: block; border-top: 1px solid #999; margin: 0 0.5em;">
 <hr style="border: none; height: 1px; background-color: #333;">
 
 
