@@ -1,6 +1,6 @@
 ### Abed-Elrahman Tuffaha
 
-**'Nuclear Engineer / Software Developer'**
+**`Nuclear Engineer / Software Developer`**
 
 Here are some ideas to get you started:
 
